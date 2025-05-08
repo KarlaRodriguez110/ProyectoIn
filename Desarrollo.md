@@ -5,7 +5,8 @@ se asignan los pines correspondientes a cada servomotor para establecer su conex
 # Reconocimiento eficiente usando MediaPipe y OpenCV
 La visión por computadora es un campo que permite a los equipos informáticos interpretar y comprender su entorno. A través del uso de algoritmos
 avanzados y técnicas de aprendizaje automático, estos sistemas son capaces de analizar imágenes y videos para llevar a cabo tareas complejas, como la detección de rostros y cuerpos humanos.
-![Adobe Logo](https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/media.png "Hover text")
+
+![Adobe Logo](https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/media.png)
 
 # Ubicación de puntos clave de hombros, codos y muñecas
 Se creó una función llamada calcular_angulo la cual recibe tres puntos en coordenadas (x, y) y calcula el ángulo entre los segmentos formados por esos
