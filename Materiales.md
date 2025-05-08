@@ -11,7 +11,7 @@ permite un control preciso en términos de posición angular, aceleración y vel
 
 *Motorreductor: Es un sistema que combina un reductor de velocidad y un motor. Estos van unidos en una sola pieza y se usa para reducir la
 velocidad de un equipo de forma automática.
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo]((https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/motoR.png)
 
 *Pantalla LCD ST7920 gráfica (128×64): es un tipo de pantalla de cristal líquido que consta de 128 columnas y 64 filas de píxeles, lo que da
 como resultado un total de 8192 píxeles. Estos píxeles se pueden controlar individualmente para mostrar texto, imágenes e incluso animaciones simples.
