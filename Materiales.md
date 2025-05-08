@@ -4,10 +4,10 @@
 *Servomotor SG90: Un servomotor es un tipo especial de motor que permite controlar la posición del eje en un momento dado. Esta diseñado
 para moverse determinada cantidad de grados y luego mantenerse fijo en una posición. En otras palabras, es un actuador rotativo o motor que
 permite un control preciso en términos de posición angular, aceleración y velocidad.
-![Servomotor](/docs/contributor/assets/adobe_standard_logo.png)
+![Servomotor](https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/servo.png)
 
 *Puente H: Es un circuito electrónico que permite invertir la polaridad de tensión aplicada a una carga.
-![Puente h](/docs/contributor/assets/adobe_standard_logo.png)
+![Puente h](https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/puente.png)
 
 *Motorreductor: Es un sistema que combina un reductor de velocidad y un motor. Estos van unidos en una sola pieza y se usa para reducir la
 velocidad de un equipo de forma automática.
@@ -19,7 +19,7 @@ como resultado un total de 8192 píxeles. Estos píxeles se pueden controlar ind
 
 *ESP32: es un microcontrolador desarrollado por Espressif Systems que integra conectividad Wi-Fi y Bluetooth en un solo chip,es altamente eficiente en
 términos de consumo de energía y rendimiento. Además, cuenta con uno conector micro USB para comunicación y alimentación.
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo](https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/Esp.png)
 
 *Fuente de alimentación 9v: se utilizó una batería externa para suministrar la energía necesaria a todos los componentes del robot.
 
