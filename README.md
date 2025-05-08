@@ -6,3 +6,5 @@ imitación de movimientos humanos. A pesar de que la replicación de estos movim
 respuesta, el sistema demuestra una notable capacidad para emular la dinámicdel cuerpo humano. Para lograr esta imitación, se ha integrado un sistema de
 visión por computadora que permite al robot detectar puntos clave del cuerpo como muñecas, codos y hombros, facilitando así la sincronización de los movi
 mientos.
+
+  ![screen](https://experienceleague.adobe.com/docs/contributor/assets/rb1?lang=es)
