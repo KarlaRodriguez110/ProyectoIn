@@ -7,4 +7,4 @@ respuesta, el sistema demuestra una notable capacidad para emular la dinámicdel
 visión por computadora que permite al robot detectar puntos clave del cuerpo como muñecas, codos y hombros, facilitando así la sincronización de los movi
 mientos.
 
-  ![screen](https://experienceleague.adobe.com/docs/contributor/assets/rb1?lang=es)
+  ![screen](https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/rb1.png)
