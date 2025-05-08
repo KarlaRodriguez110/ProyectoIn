@@ -8,3 +8,6 @@ visión por computadora que permite al robot detectar puntos clave del cuerpo co
 mientos.
 
   ![screen](https://github.com/KarlaRodriguez110/ProyectoIn/blob/main/rb1.png)
+>[!NOTE]
+>
+>El robot usado fue creado y impreso por los mismos
